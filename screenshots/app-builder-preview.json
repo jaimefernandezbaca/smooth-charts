@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chart Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 1008,
+      "bodyTextHash": "6be74e7e4c01af388b9e304b5e36c099f964f9b88ccd02dcdfd912860941404f",
+      "bodyTextPrefix": "Chart Studio Bars, lines, and a second axis Start from a sample ",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chart Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 199,
+      "bodyTextHash": "bb14f71e2e191d5f7dbc34dfaf4423acca2eb85ff7335e0aaaaab86207387d40",
+      "bodyTextPrefix": "Chart Studio Chart Style Data Monthly revenue. Revenue bar on th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
